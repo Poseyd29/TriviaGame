@@ -1,0 +1,37 @@
+body {
+
+	background-color: pink;
+}
+
+#container {
+
+	width: 980px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+
+#title {
+
+	text-align: center;
+	font-family: monospace;
+	color: blue;
+}
+
+#time {
+
+	text-align: center;
+	font-size: 24px;
+	font-family: sans-serif;
+}
+
+.text {
+
+	
+	text-align: center;
+}
+
+#done {
+
+	margin: 0 auto;
+	text-align: center;
+}
